@@ -1,0 +1,2 @@
+# reduxfirst
+redux setup
